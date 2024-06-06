@@ -35,7 +35,7 @@
 
 ![Seviye 2](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/4bc46991-9526-4ea5-a8aa-586834a82d10)
 
-### Seviye 3
+### DÜŞMAN
 - Bu seviyede karşınıza düşmanlar çıkacak.
 - Düşmana dokunduğunuzda, oyun sona erer ve yeniden başlar.
 
