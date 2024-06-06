@@ -1,3 +1,7 @@
+OYUNUMUZU GÖRELİM ->
+https://www.youtube.com/watch?v=hb7rjiN6m1g&ab_channel=yasir
+_______________________________________________
+
 # Denge Macerası
 
 ## Oyun Açıklaması
