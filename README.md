@@ -1,47 +1,52 @@
 # Denge Macerası
 
-# Oyun Açıklaması
+## Oyun Açıklaması
 
 "Denge Macerası" oyununda, topu dengede tutarak ve engelleri aşarak hedefe ulaşmanız gerekiyor. Belirtilen süre dolmadan bitiş noktasına varmalısınız. Eğer süre dolmadan önce hedefe ulaşamazsanız, oyunu kaybedersiniz.
 
-# Oyun Kuralları
+## Oyun Kuralları
 
 1. Topu dengede tutun ve kontrol edin.
 2. Karşınıza çıkan engelleri aşın.
 3. Belirtilen süre dolmadan bitiş noktasına ulaşmaya çalışın.
 4. Süre dolmadan önce hedefe ulaşamazsanız, oyun sona erer ve kaybedersiniz.
 
-# Nasıl Oynanır
+## Nasıl Oynanır
 
 - Topu yön tuşları ile kontrol edin.
 - Engelleri dikkatli bir şekilde aşmaya çalışın.
 - Zamanı iyi kullanarak hedefe ulaşın.
 
- ##OYUN TANIMI
-- Oyun köşesinde zamanımız vara zamanı biterken game over veriyor ve yeniden başliyor
-![لقطة الشاشة 2024-06-06 181434](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/2a1a1a32-e3e2-42df-a55f-44dc3874da9d)
+## Oyun Tanımı
 
+"Denge Macerası" oyununda zaman yönetimi ve strateji ön planda. Oyun köşesinde kalan zamanınızı gösteren bir sayaç var. Süre dolduğunda, oyun sona erer ve yeniden başlar.
 
-#İkinci levelde iki yolumuz var birisi kısa ama zoz ikinci ise uzak ama kolay zamanımız kısa olduğu için hangi yol seçceğimiz iyice düşünmemiz lazim
+### Seviye 1
+- Başlangıç seviyesi, oyunun temel mekaniğini öğrenmenize yardımcı olacak.
+- Engelleri aşarak ve topu dengede tutarak bitiş noktasına ulaşmalısınız.
 
-![لقطة الشاشة 2024-06-06 181525](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/4bc46991-9526-4ea5-a8aa-586834a82d10)
+![Seviye 1](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/2a1a1a32-e3e2-42df-a55f-44dc3874da9d)
 
+### Seviye 2
+- İkinci seviyede iki yol seçeneği var:
+  - Kısa ama zor yol
+  - Uzun ama kolay yol
+- Zaman sınırlı olduğu için hangi yolu seçeceğinizi iyi düşünmelisiniz.
 
-#önümüzdeki düşmanımız ona dokunduğumuzda, direk öluyoruz 
-![لقطة الشاشة 2024-06-06 222413](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/1186f02c-2daf-40b0-a65c-1ad52836679e)
+![Seviye 2](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/4bc46991-9526-4ea5-a8aa-586834a82d10)
 
+### Seviye 3
+- Bu seviyede karşınıza düşmanlar çıkacak.
+- Düşmana dokunduğunuzda, oyun sona erer ve yeniden başlar.
 
+![Seviye 3](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/1186f02c-2daf-40b0-a65c-1ad52836679e)
 
-Geliştirici Notları
+## Geliştirici Notları
 
-Bu proje, Unity Editor'de geliştirilmiştir.
-Geri bildirimler ve öneriler için proje deposundaki iletişim bilgilerini kullanabilirsiniz.
-İLETİŞİM : 
-Proje sorumlusu: [YASSER MURAD]
-E-posta: [yasser.muradd@gmail.com]
+Bu proje, Unity Editor'de geliştirilmiştir. Geri bildirimler ve öneriler için proje deposundaki iletişim bilgilerini kullanabilirsiniz.
+
+### İletişim:
+- Proje Sorumlusu: **Yasser Murad**
+- E-posta: [yasser.muradd@gmail.com](mailto:yasser.muradd@gmail.com)
+
 Keyifli oyunlar!
-
-# Denge Macerası
-
-## Oyun Açıklaması
-
