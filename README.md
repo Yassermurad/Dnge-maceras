@@ -19,13 +19,15 @@
 
  ##OYUN TANIMI
 - Oyun köşesinde zamanımız vara zamanı biterken game over veriyor ve yeniden başliyor
-![Uploading لقطة الشاشة 2024-06-06 181434.png…]()
+![لقطة الشاشة 2024-06-06 181434](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/2a1a1a32-e3e2-42df-a55f-44dc3874da9d)
 
 
 #İkinci levelde iki yolumuz var birisi kısa ama zoz ikinci ise uzak ama kolay zamanımız kısa olduğu için hangi yol seçceğimiz iyice düşünmemiz lazim
-![Uploading لقطة الشاشة 2024-06-06 181525.png…]()
 
-#önümüzdeki düşmanımız ona dokunduğumuzda, direk öluyoruz 
+
+#önümüzdeki düşman
+![Uploading لقطة الشاشة 2024-06-06 181434.png…]()
+ımız ona dokunduğumuzda, direk öluyoruz 
 ![Uploading لقطة الشاشة 2024-06-06 222413.png…]()
 
 
