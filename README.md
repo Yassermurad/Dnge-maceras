@@ -25,10 +25,10 @@
 #İkinci levelde iki yolumuz var birisi kısa ama zoz ikinci ise uzak ama kolay zamanımız kısa olduğu için hangi yol seçceğimiz iyice düşünmemiz lazim
 
 
-#önümüzdeki düşman
 ![Uploading لقطة الشاشة 2024-06-06 181434.png…]()
-ımız ona dokunduğumuzda, direk öluyoruz 
-![Uploading لقطة الشاشة 2024-06-06 222413.png…]()
+
+#önümüzdeki düşmanımız ona dokunduğumuzda, direk öluyoruz 
+![لقطة الشاشة 2024-06-06 222413](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/1186f02c-2daf-40b0-a65c-1ad52836679e)
 
 
 
