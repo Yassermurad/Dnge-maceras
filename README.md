@@ -41,9 +41,6 @@
 
 ![Seviye 3](https://github.com/Yassermurad/Dnge-maceras/assets/149067135/1186f02c-2daf-40b0-a65c-1ad52836679e)
 
-## Geliştirici Notları
-
-Bu proje, Unity Editor'de geliştirilmiştir. Geri bildirimler ve öneriler için proje deposundaki iletişim bilgilerini kullanabilirsiniz.
 
 ### İletişim:
 - Proje Sorumlusu: **Yasser Murad**
