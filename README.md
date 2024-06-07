@@ -55,4 +55,4 @@ Keyifli oyunlar!
 
 # Denge Macerası
 
-Oyunu izle ->https://drive.google.com/drive/folders/1xOaDndlShe4q5o1G4M5XXXbLszdhoFWP?usp=drive_link
+Oyunu izle -> https://drive.google.com/file/d/1qPHoBNycN3N6c0lLvgZlTOdVq2DMCi5F/view?usp=drive_link
